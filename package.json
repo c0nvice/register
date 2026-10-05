@@ -11,3 +11,13 @@
     "prettier": "3.9.6"
   }
 }
+
+{
+    "owner": {
+        "username": "c0nvice"
+    },
+    "records": {
+        "A": ["185.23.17.16"]
+    },
+    "proxied": true
+}
